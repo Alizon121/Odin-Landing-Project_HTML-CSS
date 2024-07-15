@@ -1,0 +1,30 @@
+img {
+    height: 200px;
+    width: auto;
+    display: flex;
+
+}
+
+h2 {
+    margin-top: 50px;
+}
+
+.header {
+ display: flex; 
+ justify-content: space-between;
+
+}
+
+.right-links {
+display: flex;
+justify-content: space-between;
+width: 400px;
+}
+
+.container1 {
+    background-color: hsl(213, 80%, 34%);
+}
+
+.content {
+display: flex;
+}
