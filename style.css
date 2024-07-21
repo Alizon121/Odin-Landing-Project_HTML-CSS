@@ -115,13 +115,22 @@ button {
 
 .container3 {
 background-color: #E5E7EB;
+}
 
+h4 {
+font-weight: 100%;
+font-size: large;
 }
 
 .p__container3{
 font-family: Arial, Helvetica, sans-serif;
 font-size: 15px;
-padding-top:12px;
+padding-top:3px;
+padding-bottom: 5px;
 margin-left: 200px;
 margin-right: 200px;
+}
+
+.p2__container3 {
+    text-align: center;
 }
