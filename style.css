@@ -186,3 +186,36 @@ border-radius: 4px;
     font-size: 12px;
     font-family: sans-serif;
 }
+
+/***********************Media Queries***********************/
+
+
+/*Media Queries Header & container 1*/
+@media (max-width: 745px) {
+h3{
+font-size: 16px;
+}
+.container1 {
+overflow: auto;
+}
+h2 {
+    display: flex;
+    text-align: start;
+    font-size: 25px;
+    padding: 10px
+}
+
+.text_container1 p {
+    padding-left: 20px;
+}
+
+.container1_button {
+    margin-left: 20px
+}
+
+.container1 img {
+    margin-right: 35px;
+}
+}
+
+
